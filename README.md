@@ -44,7 +44,5 @@ This project analyzes student engagement, measured in minutes watched, between *
 2. **Explore Free User Retention**: Consider incentives or additional features for free users to maintain engagement.
 3. **Localized Interventions**: While regional differences are insignificant here, ongoing analysis may reveal evolving engagement trends.
 
-## Acknowledgments
-
-Special thanks to Alex the Analyst for the guidance and support to pull of the project.
+A 360 Data Science Project
 
